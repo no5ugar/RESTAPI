@@ -1,10 +1,8 @@
 {
-  "posts": [
-    {
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"posts": [{
+		"title": "hello"
+	}],
+	"profile": {
+		"name": "typicode"
+	}
 }
